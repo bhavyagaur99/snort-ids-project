@@ -1,0 +1,43 @@
+04/26-22:50:50.115418  [**] [1:1000001:1] Admin portal login detected without https [**] [Priority: 0] {TCP} 192.168.150.128:50992 -> 192.168.150.129:80
+04/26-22:50:52.997798  [**] [1:1000002:1] Bot User-Agent detected [**] [Priority: 0] {TCP} 192.168.150.128:52210 -> 192.168.150.129:80
+04/26-22:50:57.900162  [**] [1:1000003:1] ICMP echo detected [**] [Priority: 0] {ICMP} 192.168.150.128 -> 192.168.150.129
+04/26-22:51:02.347758  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42543 -> 192.168.150.129:22
+04/26-22:51:02.363246  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:36423 -> 192.168.150.129:22
+04/26-22:51:02.376995  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:44899 -> 192.168.150.129:22
+04/26-22:51:02.391134  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:35069 -> 192.168.150.129:22
+04/26-22:51:02.405730  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:45093 -> 192.168.150.129:22
+04/26-22:51:02.419501  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:37389 -> 192.168.150.129:22
+04/26-22:51:02.434598  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:36415 -> 192.168.150.129:22
+04/26-22:51:02.448065  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:38963 -> 192.168.150.129:22
+04/26-22:51:02.461878  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:43423 -> 192.168.150.129:22
+04/26-22:51:02.475838  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:43869 -> 192.168.150.129:22
+04/26-22:51:02.489589  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:38999 -> 192.168.150.129:22
+04/26-22:51:02.508941  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:39309 -> 192.168.150.129:22
+04/26-22:51:02.524822  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:35627 -> 192.168.150.129:22
+04/26-22:51:02.543028  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42641 -> 192.168.150.129:22
+04/26-22:51:02.560119  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:40423 -> 192.168.150.129:22
+04/26-22:51:02.578424  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:45835 -> 192.168.150.129:22
+04/26-22:51:02.596528  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:40517 -> 192.168.150.129:22
+04/26-22:51:02.615119  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:45849 -> 192.168.150.129:22
+04/26-22:51:02.634847  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42749 -> 192.168.150.129:22
+04/26-22:51:02.660380  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:36249 -> 192.168.150.129:22
+04/26-22:51:02.680988  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:41981 -> 192.168.150.129:22
+04/26-22:51:02.701252  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:46343 -> 192.168.150.129:22
+04/26-22:51:02.720891  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:33117 -> 192.168.150.129:22
+04/26-22:51:02.745076  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:35759 -> 192.168.150.129:22
+04/26-22:51:02.760081  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42853 -> 192.168.150.129:22
+04/26-22:51:02.775503  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:33451 -> 192.168.150.129:22
+04/26-22:51:02.790348  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:35787 -> 192.168.150.129:22
+04/26-22:51:02.805563  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:36609 -> 192.168.150.129:22
+04/26-22:51:02.821699  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:45975 -> 192.168.150.129:22
+04/26-22:51:02.839376  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:44711 -> 192.168.150.129:22
+04/26-22:51:02.855233  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:46847 -> 192.168.150.129:22
+04/26-22:51:02.871803  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:41735 -> 192.168.150.129:22
+04/26-22:51:02.887732  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:37223 -> 192.168.150.129:22
+04/26-22:51:02.903252  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42563 -> 192.168.150.129:22
+04/26-22:51:02.918259  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:46165 -> 192.168.150.129:22
+04/26-22:51:02.937244  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:37169 -> 192.168.150.129:22
+04/26-22:51:02.957850  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:42743 -> 192.168.150.129:22
+04/26-22:51:02.975398  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:46443 -> 192.168.150.129:22
+04/26-22:51:02.994114  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:32937 -> 192.168.150.129:22
+04/26-22:51:03.010888  [**] [1:1000004:1] Possible SSH Brute Force Detected [**] [Priority: 0] {TCP} 192.168.150.128:34597 -> 192.168.150.129:22

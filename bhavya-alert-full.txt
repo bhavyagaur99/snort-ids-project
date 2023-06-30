@@ -1,0 +1,300 @@
+[**] [1:1000001:1] Admin portal login detected without https [**]
+[Priority: 0] 
+04/26-22:50:50.115418 192.168.150.128:50992 -> 192.168.150.129:80
+TCP TTL:64 TOS:0x0 ID:21821 IpLen:20 DgmLen:142 DF
+***AP*** Seq: 0x5D1FC579  Ack: 0x312F068A  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1967347995 1459190629 
+
+[**] [1:1000002:1] Bot User-Agent detected [**]
+[Priority: 0] 
+04/26-22:50:52.997798 192.168.150.128:52210 -> 192.168.150.129:80
+TCP TTL:64 TOS:0x0 ID:20406 IpLen:20 DgmLen:125 DF
+***AP*** Seq: 0x1E4D0A41  Ack: 0x726DFE80  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1967350878 1459193511 
+
+[**] [1:1000003:1] ICMP echo detected [**]
+[Priority: 0] 
+04/26-22:50:57.900162 192.168.150.128 -> 192.168.150.129
+ICMP TTL:64 TOS:0x0 ID:39143 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:2700   Seq:1  ECHO
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.347758 192.168.150.128:42543 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:59118 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x18C6C6E2  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360228 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.363246 192.168.150.128:36423 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:40645 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x52EF6C53  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360243 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.376995 192.168.150.128:44899 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:12450 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x91C831B0  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360257 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.391134 192.168.150.128:35069 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:17801 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xBFF7E9E0  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360271 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.405730 192.168.150.128:45093 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:8772 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6ECFEA6A  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360286 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.419501 192.168.150.128:37389 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:48584 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xA46C0ABE  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360300 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.434598 192.168.150.128:36415 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:8985 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x84DBEACF  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360314 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.448065 192.168.150.128:38963 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:40238 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x9D45D29A  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360328 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.461878 192.168.150.128:43423 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:35176 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3400520  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360342 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.475838 192.168.150.128:43869 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:38294 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xADFBF78F  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360356 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.489589 192.168.150.128:38999 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:34582 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5D796DF2  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360370 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.508941 192.168.150.128:39309 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:54431 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1EDFCAC7  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360389 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.524822 192.168.150.128:35627 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:22125 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xCF7F2639  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360405 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.543028 192.168.150.128:42641 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:230 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xEA41F346  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360423 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.560119 192.168.150.128:40423 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:32061 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1E8877C9  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360440 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.578424 192.168.150.128:45835 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:53300 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xBEEFC80B  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360458 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.596528 192.168.150.128:40517 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:5199 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4BBF6746  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360477 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.615119 192.168.150.128:45849 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:10930 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1C3F5CE4  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360495 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.634847 192.168.150.128:42749 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:5244 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x9C0C6216  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360515 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.660380 192.168.150.128:36249 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:31946 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1BB75E7  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360540 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.680988 192.168.150.128:41981 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:35735 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xB7DC37A6  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360561 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.701252 192.168.150.128:46343 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:64180 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5D6032F1  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360581 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.720891 192.168.150.128:33117 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:21049 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1360AD90  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360601 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.745076 192.168.150.128:35759 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:49648 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xFCA10B0F  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360625 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.760081 192.168.150.128:42853 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:4930 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x2ECB7283  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360640 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.775503 192.168.150.128:33451 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:16867 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7E353297  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360655 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.790348 192.168.150.128:35787 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:40897 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6C072A4E  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360670 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.805563 192.168.150.128:36609 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:22837 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC7A223D2  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360686 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.821699 192.168.150.128:45975 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:14010 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x14E4ADC6  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360702 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.839376 192.168.150.128:44711 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:58145 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x623E374D  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360719 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.855233 192.168.150.128:46847 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:36282 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x75390FE  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360735 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.871803 192.168.150.128:41735 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:40522 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4582B4F8  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360752 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.887732 192.168.150.128:37223 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:18939 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x90DD2198  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360768 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.903252 192.168.150.128:42563 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:8103 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x98C91E02  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360783 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.918259 192.168.150.128:46165 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:20570 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xA544ADEC  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360798 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.937244 192.168.150.128:37169 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:5025 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE1634F00  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360817 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.957850 192.168.150.128:42743 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:24502 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF2FDE0DB  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360838 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.975398 192.168.150.128:46443 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:46583 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x60F61846  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360855 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:02.994114 192.168.150.128:32937 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:4716 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE18382F9  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360874 0 NOP WS: 7 
+
+[**] [1:1000004:1] Possible SSH Brute Force Detected [**]
+[Priority: 0] 
+04/26-22:51:03.010888 192.168.150.128:34597 -> 192.168.150.129:22
+TCP TTL:64 TOS:0x0 ID:56243 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xBB749759  Ack: 0x0  Win: 0xFAF0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967360891 0 NOP WS: 7 
+
